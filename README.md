@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 💻 Estou cursando Engenharia de Computação <br>- 👀 Tenho interesse nas áreas de embarcados, desenvolvimento web e segurança<br>- ⌛ No meu tempo livre gosto de assistir filmes e séries</p>
+<p align="left">- 💻 Estou cursando Engenharia de Computação <br>- 👀 Tenho interesse nas áreas de dados, sistemas embarcados, desenvolvimento web e segurança<br>- ⌛ No meu tempo livre gosto de assistir filmes e séries</p>
 
 ###
 
